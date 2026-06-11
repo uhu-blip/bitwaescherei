@@ -452,8 +452,7 @@ $page = new Page();
 						</div>
 						<div>
 							<strong>Barrierefreiheit</strong><br>
-							Unser Raum ist barrierefrei und verfügen im EG über ein barrerierefreie Toilette.
-							Dann habe ich gesehen, dass wir bei ProInfirmis App keinen Eintrag haben mit der Ginto App und Pro Infirmis App
+							Unser Raum ist barrierefrei und verfügt im EG über ein barrerierefreie Toilette.
 						</div>
 					</div>
 				</div>
@@ -496,6 +495,10 @@ $page = new Page();
 							<br>
 							We respect privacy and pay attention to balance when there is heavy use by individuals or
 							when they take up an excessive amount of space (spatially and when making decisions).
+						</div>
+						<div>
+							<strong>Accessibility</strong><br>
+							Our venue is wheelchair accessible and features an accessible restroom on the ground floor.
 						</div>
 					</div>
 
